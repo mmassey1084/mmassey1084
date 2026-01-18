@@ -10,7 +10,7 @@ I care deeply about performance, responsiveness, and accessibility; making sure 
 
 💼 Software Developer Intern at The Church Studio (Tulsa, OK)
 
-🎓 Information Science & Technology student at the University of Oklahoma
+🎓 Bachelor's in Information Science & Technology From The University of Oklahoma and Associate's in Computer Programming from Tulsa Community College
 
 🌱 Always learning: APIs, auth, databases, cloud, performance
 
