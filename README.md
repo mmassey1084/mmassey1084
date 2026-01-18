@@ -31,7 +31,7 @@ JavaScript, Python, Java, C, C++, C#
 
 Tools & Platforms
 
-Git, GitHub, Firebase, Stripe, Postman, VS Code, Vercel, AWS, Figma, Postman
+Git, GitHub, Firebase, Stripe, Postman, VS Code, Vercel, AWS, Figma
 
 Other
 
