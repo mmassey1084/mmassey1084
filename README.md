@@ -2,7 +2,7 @@
 
 Full-Stack Developer | JavaScript Engineer | Software Developer
 
-I’m a full-stack developer who loves turning ideas into real, usable products. I build modern web and mobile experiences using tools like React, Vite, Node.js, Express, MySQL, and Tailwind CSS. From booking systems to full production apps—like the one I’m building for The Church Studio in Tulsa—I enjoy solving real problems with clean, scalable code.
+I’m a full-stack developer who loves turning ideas into real, usable products. I build modern web and mobile experiences using tools like React, Vite, Node.js, Express, MySQL, and Tailwind CSS. From booking systems to full production apps like the one I’m building for The Church Studio in Tulsa; I enjoy solving real problems with clean, scalable code.
 
 I care deeply about performance, responsiveness, and accessibility—making sure what I build works well for everyone. I’m always learning, always building, and always pushing myself to grow.
 
