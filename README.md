@@ -58,6 +58,6 @@ I care deeply about performance, responsiveness, and accessibility; making sure 
 
 💼 LinkedIn: https://www.linkedin.com/in/michael-massey-488496132
 
-🌍 Portfolio: https://master.d10lt4fvs76a1q.amplifyapp.com/
+🌍 Portfolio: https://d2og6tlzs0ou9q.cloudfront.net/
 
 📧 Email: mmassey1084@gmail.com
