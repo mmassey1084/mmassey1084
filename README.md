@@ -1,6 +1,6 @@
 👋 Hi, I’m Michael Massey
 
-Full-Stack Developer | JavaScript Engineer | Software Developer
+Full-Stack Developer | Software Developer
 
 I’m a full-stack developer who loves turning ideas into real, usable products. I build websites and mobile applications using tools like React, Vite, Node.js, Express, MySQL, and Tailwind CSS. From booking systems to full production apps like the one I’m building for The Church Studio in Tulsa; I enjoy solving real problems with clean, scalable code.
 
